@@ -3,6 +3,7 @@ LeetCode C# solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|**237**| **[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/237-DeleteNodeLinkedList.cs)** | **Easy** |
 |**344**| **[Reverse String](https://leetcode.com/problems/reverse-string/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/344-ReverseString.cs)** | **Easy** |
 |**509**| **[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/509-FibonacciNumber.cs)** | **Easy** |
 |**682**| **[Baseball Game](https://leetcode.com/problems/baseball-game/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/682-BaseballGame.cs)** | **Easy** |
