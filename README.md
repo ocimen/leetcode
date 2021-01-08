@@ -8,6 +8,7 @@ LeetCode C# solutions
 |**509**| **[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/509-FibonacciNumber.cs)** | **Easy** |
 |**682**| **[Baseball Game](https://leetcode.com/problems/baseball-game/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/682-BaseballGame.cs)** | **Easy** |
 |**771**| **[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/771-JewelsAndStones.cs)** | **Easy** |
+|**876**| **[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/21-MergeTwoSortedLists.cs)** | **Easy** |
 |**933**| **[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/933-NumberofRecentCalls.cs)** | **Easy** |
 |**1108**| **[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1108-DefangingAnIPAddress.cs)** | **Easy** |
 |**1290**| **[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1290-ConvertBinaryNumberLinkedListInteger.cs)** | **Easy** |
