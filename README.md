@@ -17,5 +17,6 @@ LeetCode C# solutions
 |**1342**| **[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1342-NumberStepsReduceNumberZero.cs)** | **Easy** |
 |**1394**| **[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1394-FindLuckyIntegerArray.cs)** | **Easy** |
 |**1431**| **[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1431-KidsWithGreatestNumberofCandies.cs)** | **Easy** |
+|**1470**| **[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1470-ShuffleArray.cs)** | **Easy** |
 |**1556**| **[Thousand Separator](https://leetcode.com/problems/thousand-separator/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1556-ThousandSeparator.cs)** | **Easy** |
 |**1662**| **[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1662-CheckIfTwoStringArraysareEquivalent.cs)** | **Easy** |
