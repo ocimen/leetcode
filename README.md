@@ -19,6 +19,7 @@ LeetCode C# solutions
 |**1431**| **[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1431-KidsWithGreatestNumberofCandies.cs)** | **Easy** |
 |**1470**| **[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1470-ShuffleArray.cs)** | **Easy** |
 |**1480**| **[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1480-RunningSum1dArray.cs)** | **Easy** |
+|**1512**| **[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1512-NumberGoodPairs.cs)** | **Easy** |
 |**1556**| **[Thousand Separator](https://leetcode.com/problems/thousand-separator/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1556-ThousandSeparator.cs)** | **Easy** |
 |**1603**| **[Design Parking System](https://leetcode.com/problems/design-parking-system/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1603-DesignParkingSystem.cs)** | **Easy** |
 |**1662**| **[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1662-CheckIfTwoStringArraysareEquivalent.cs)** | **Easy** |
