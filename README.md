@@ -22,5 +22,6 @@ LeetCode C# solutions
 |**1556**| **[Thousand Separator](https://leetcode.com/problems/thousand-separator/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1556-ThousandSeparator.cs)** | **Easy** |
 |**1603**| **[Design Parking System](https://leetcode.com/problems/design-parking-system/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1603-DesignParkingSystem.cs)** | **Easy** |
 |**1662**| **[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1662-CheckIfTwoStringArraysareEquivalent.cs)** | **Easy** |
+|**1672**| **[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1672-RichestCustomerWealth.cs)** | **Easy** |
 |**1678**| **[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1678-GoalParserInterpretation.cs)** | **Easy** |
 |**1684**| **[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1684-CountNumberConsistentStrings.cs)** | **Easy** |
