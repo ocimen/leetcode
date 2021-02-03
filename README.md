@@ -8,6 +8,7 @@ LeetCode C# solutions
 |**217**| **[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/217-ContainsDuplicate.cs)** | **Easy** |
 |**237**| **[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/237-DeleteNodeLinkedList.cs)** | **Easy** |
 |**344**| **[Reverse String](https://leetcode.com/problems/reverse-string/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/344-ReverseString.cs)** | **Easy** |
+|**412**| **[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/412-FizzBuzz.cs)** | **Easy** |
 |**509**| **[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/509-FibonacciNumber.cs)** | **Easy** |
 |**682**| **[Baseball Game](https://leetcode.com/problems/baseball-game/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/682-BaseballGame.cs)** | **Easy** |
 |**771**| **[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/771-JewelsAndStones.cs)** | **Easy** |
