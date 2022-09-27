@@ -5,6 +5,7 @@ LeetCode C# solutions
 |---| ----- | -------- | ---------- |
 |**1**| **[Two Sum](https://leetcode.com/problems/two-sum/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1-TwoSum.cs)** | **Easy** |
 |**21**| **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/21-MergeTwoSortedLists.cs)** | **Easy** |
+|**202**| **[Happy Number](https://leetcode.com/problems/happy-number/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/202-HappyNumber.cs)** | **Easy** |
 |**217**| **[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/217-ContainsDuplicate.cs)** | **Easy** |
 |**237**| **[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/237-DeleteNodeLinkedList.cs)** | **Easy** |
 |**344**| **[Reverse String](https://leetcode.com/problems/reverse-string/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/344-ReverseString.cs)** | **Easy** |
