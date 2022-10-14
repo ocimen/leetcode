@@ -5,6 +5,7 @@ LeetCode C# solutions
 |---| ----- | -------- | ---------- |
 |**1**| **[Two Sum](https://leetcode.com/problems/two-sum/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1-TwoSum.cs)** | **Easy** |
 |**21**| **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/21-MergeTwoSortedLists.cs)** | **Easy** |
+|**102**| **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/21-MergeTwoSortedLists.cs)** | **Medium** |
 |**141**| **[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/141-LinkedListCycle.cs)** | **Easy** |
 |**142**| **[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/142-LinkedListCycleII.cs)** | **Medium** |
 |**202**| **[Happy Number](https://leetcode.com/problems/happy-number/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/202-HappyNumber.cs)** | **Easy** |
