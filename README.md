@@ -10,6 +10,7 @@ LeetCode C# solutions
 |**141**| **[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/141-LinkedListCycle.cs)** | **Easy** |
 |**142**| **[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/142-LinkedListCycleII.cs)** | **Medium** |
 |**202**| **[Happy Number](https://leetcode.com/problems/happy-number/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/202-HappyNumber.cs)** | **Easy** |
+|**206**| **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/206-ReverseLinkedList.cs)** | **Easy** |
 |**217**| **[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/217-ContainsDuplicate.cs)** | **Easy** |
 |**237**| **[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/237-DeleteNodeLinkedList.cs)** | **Easy** |
 |**344**| **[Reverse String](https://leetcode.com/problems/reverse-string/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/344-ReverseString.cs)** | **Easy** |
