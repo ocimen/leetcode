@@ -6,6 +6,7 @@ LeetCode C# solutions
 |**1**| **[Two Sum](https://leetcode.com/problems/two-sum/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/1-TwoSum.cs)** | **Easy** |
 |**21**| **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/21-MergeTwoSortedLists.cs)** | **Easy** |
 |**83**| **[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/83-RemoveDuplicatesSortedList.cs)** | **Easy** |
+|**92**| **[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/92-ReverseLinkedList2.cs)** | **Medium** |
 |**102**| **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/102-BinaryTreeLevelOrderTraversal.cs)** | **Medium** |
 |**141**| **[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/141-LinkedListCycle.cs)** | **Easy** |
 |**142**| **[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)** | **[C#](https://github.com/ocimen/leetcode/blob/main/LeetCode/142-LinkedListCycleII.cs)** | **Medium** |
